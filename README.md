@@ -53,3 +53,4 @@ window.electronAPI.onWriteFileReply((event, message) => {
 // 默认读取跟目录下的：config.yaml配置文件（public/config.yaml，打包为app后此文件在app根目录）, 在项目中使用配置文件内容示例
 this.$appConfig?.testConfig
 ```
+![img.png](img.png)
