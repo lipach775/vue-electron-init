@@ -1,0 +1,2 @@
+# 服务配置文件，项目中读取方法：this.$appConfig?.testConfig
+testConfig: "这是配置文件中的内容"
