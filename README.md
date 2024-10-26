@@ -1,4 +1,5 @@
 # vue-electron-init
+可以将vue项目打包为网站或者app使用
 
 ## 安装依赖
 ```
